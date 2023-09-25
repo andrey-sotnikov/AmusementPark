@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9a7df352-9f8f-4a18-815f-6dd7a1dfbf06">
+  <producedTypes>
+    <objectType typeId="a0bbbf25-c96c-4605-97c1-12c4e3a6b34c" valueTypeId="6113ce1f-7a7b-4292-ad77-87a67a6db4f0"/>
+    <managerType typeId="15fd515e-e761-4c78-8975-e4fbbf58221d" valueTypeId="25cb9c43-465f-46ec-bda2-71db6dfb6674"/>
+  </producedTypes>
+  <name>Калатц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Калатц</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.Калатц.Form.Форма</defaultForm>
+  <forms uuid="397ccd93-6a96-4a6c-9b2f-e5e3d79849c6">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
